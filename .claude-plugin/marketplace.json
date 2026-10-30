@@ -1,0 +1,16 @@
+{
+  "name": "amanetize",
+  "owner": {
+    "name": "amanetize"
+  },
+  "plugins": [
+    {
+      "name": "coding-rules",
+      "source": "./",
+      "description": "Skills synced daily from upstream GitHub repos: anti-slop rules and engineering-book rules."
+    }
+  ],
+  "metadata": {
+    "description": "Skills synced daily from upstream GitHub repos: anti-slop rules and engineering-book rules."
+  }
+}

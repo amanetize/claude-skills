@@ -1,0 +1,9 @@
+# Source repos to copy skills from. The daily sync rebuilds skills/ from this list.
+# Columns (tab or spaces): repo  from  to
+#   repo  GitHub owner/name, default branch is used
+#   from  folder in that repo whose subfolders are skills (. = repo root)
+#   to    *          copy each skill as its own skill
+#         name/sub   bundle all skills under skills/name/sub, with a generated
+#                    skills/name/SKILL.md that tells Claude which one to read
+miqdadbadjuber/anti-slop      skills  *
+ciembor/agent-rules-books     .       engineering-books/books
