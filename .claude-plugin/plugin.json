@@ -1,6 +1,6 @@
 {
   "name": "coding-rules",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Skills synced daily from upstream GitHub repos: anti-slop rules and engineering-book rules.",
   "author": {
     "name": "amanetize"
